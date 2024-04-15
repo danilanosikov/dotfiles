@@ -1,0 +1,4 @@
+#!/bin/bash
+
+Jail "${1}" --ozone-platform-hint=auto --enable-features=UseOzonePlatform,WaylandWindowDecorations &
+

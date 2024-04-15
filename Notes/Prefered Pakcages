@@ -1,0 +1,25 @@
+Prefered Packages:
+
+
+1. micro
+2. btop
+3. alacritty
+4. eww
+5. Hyprland, hypridle, hyprlock, hyprcursor, hyprpaper, hyprpicker
+6. gammastep, brightnessctl, auto-cpufreq, tlp, powertop
+7. firmware, intel-undervolt
+8. librewolf, theme-adwaita-dark
+9. seatd, greetd, gtk-greeter/lightdm-greeter
+10 yazi, nativefier, youtube-dl, ffmpeg, imagemagick
+11. moonlight, blender, obs-studio
+12. grim, slurp, wf-recorder, swappy, mpv, imv, uberzug
+13. vesktop/vencord,fish, nerd-fonts
+14. xanmod-kernel, wget, curl, git, gitui, git-lfs
+15. neofetch (toybox)?
+16. wayland-logout, wl-logout, cfdisk, dhcpcd, wpa_supplicant, net-tools/utils
+17. minecraft (client/server)
+18. gtk / qt?
+19. !!!!NO SYSTEMD!!!! AVOID AT ALL COST!!!
+20. openrc (freebsd pkg manager and init system are prefered)
+21. AUDIO -"Unknown, free/open audio is a compete mess with junk built upon systems for legacy support"
+22. 
